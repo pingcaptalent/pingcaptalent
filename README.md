@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/c3/0b/e3/c30be38fcede0d43d709124f83176f71.gif"  />
+<img align="center" height="200" src="https://i.pinimg.com/originals/c3/0b/e3/c30be38fcede0d43d709124f83176f71.gif"  />
 
 
 <!--
